@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Product+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=JetBrains+Mono:wght@400;700;800&display=swap');
 
 :root {
   /* Light Mode Variables (Material Design 3 inspired) */
@@ -37,7 +37,7 @@
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Inter', sans-serif;
   background-color: var(--bg-primary);
   color: var(--text-primary);
   line-height: 1.6;
@@ -46,7 +46,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .brand {
-  font-family: 'Product Sans', 'Roboto', sans-serif;
+  font-family: 'JetBrains Mono', monospace;
 }
 
 /* Custom Scrollbar */
